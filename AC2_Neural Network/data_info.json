@@ -1,0 +1,43 @@
+{
+    "columns": [
+        "Amount",
+        "V17",
+        "V14",
+        "V12",
+        "V10",
+        "V16",
+        "V3",
+        "V7",
+        "V11",
+        "V4",
+        "V18",
+        "V1"
+    ],
+    "rows": 206747,
+    "cols": 12,
+    "target_is_numeric": true,
+    "columns_info": {
+        "Amount": [
+            "scale"
+        ],
+        "V17": [],
+        "V14": [],
+        "V12": [],
+        "V10": [],
+        "V16": [],
+        "V3": [
+            "scale"
+        ],
+        "V7": [],
+        "V11": [],
+        "V4": [],
+        "V18": [],
+        "V1": [
+            "scale"
+        ]
+    },
+    "target_info": [],
+    "n_features": 12,
+    "is_sample_weighted": false,
+    "n_classes": 2
+}

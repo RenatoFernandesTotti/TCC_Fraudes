@@ -1,0 +1,2 @@
+name,model_type,metric_type,metric_value,train_time
+1_Default_RandomForest,Random Forest,f1,0.8087091757387247,114.73

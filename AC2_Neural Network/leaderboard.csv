@@ -1,0 +1,2 @@
+name,model_type,metric_type,metric_value,train_time
+1_Default_NeuralNetwork,Neural Network,f1,0.8226527570789867,351.17

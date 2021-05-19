@@ -1,0 +1,2 @@
+name,model_type,metric_type,metric_value,train_time
+1_Default_CatBoost,CatBoost,f1,0.8478260869565218,45.51

@@ -1,0 +1,16 @@
+if (V17 > -2.754) and (V14 > -7.755) and (V14 > -4.861) then class: 0 (proba: 99.97%) | based on 185,653 samples
+
+if (V17 <= -2.754) and (V10 <= -2.129) and (V14 <= -2.87) then class: 1 (proba: 88.55%) | based on 227 samples
+
+if (V17 > -2.754) and (V14 > -7.755) and (V14 <= -4.861) then class: 0 (proba: 80.34%) | based on 117 samples
+
+if (V17 <= -2.754) and (V10 > -2.129) and (V18 > -1.673) then class: 0 (proba: 96.0%) | based on 25 samples
+
+if (V17 > -2.754) and (V14 <= -7.755) and (V12 <= -2.909) then class: 1 (proba: 100.0%) | based on 23 samples
+
+if (V17 <= -2.754) and (V10 <= -2.129) and (V14 > -2.87) then class: 0 (proba: 61.54%) | based on 13 samples
+
+if (V17 <= -2.754) and (V10 > -2.129) and (V18 <= -1.673) then class: 1 (proba: 63.64%) | based on 11 samples
+
+if (V17 > -2.754) and (V14 <= -7.755) and (V12 > -2.909) then class: 0 (proba: 100.0%) | based on 3 samples
+

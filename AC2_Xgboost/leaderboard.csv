@@ -1,0 +1,2 @@
+name,model_type,metric_type,metric_value,train_time
+1_Default_Xgboost,Xgboost,f1,0.8437499999999999,76.39

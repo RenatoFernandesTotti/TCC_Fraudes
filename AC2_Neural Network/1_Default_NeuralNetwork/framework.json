@@ -1,0 +1,717 @@
+{
+    "uid": "9557cb8d-f153-4190-b30d-ecad47942785",
+    "name": "1_Default_NeuralNetwork",
+    "preprocessing": [
+        {
+            "scale": [
+                {
+                    "scale": [
+                        252.2990710945673,
+                        1.513094886342441,
+                        1.963769454831933
+                    ],
+                    "mean": [
+                        90.56670831721054,
+                        0.023410756917247193,
+                        -0.035022267792746295
+                    ],
+                    "var": [
+                        63654.82127518152,
+                        2.289456135075644,
+                        3.8563904717309074
+                    ],
+                    "n_samples_seen": 186072,
+                    "n_features_in": 3,
+                    "columns": [
+                        "Amount",
+                        "V3",
+                        "V1"
+                    ],
+                    "scale_method": "scale_normal"
+                }
+            ],
+            "ml_task": "binary_classification",
+            "params": {
+                "columns_preprocessing": {
+                    "Amount": [
+                        "scale_normal"
+                    ],
+                    "V3": [
+                        "scale_normal"
+                    ],
+                    "V1": [
+                        "scale_normal"
+                    ]
+                },
+                "target_preprocessing": [
+                    "na_exclude"
+                ],
+                "ml_task": "binary_classification"
+            }
+        },
+        {
+            "scale": [
+                {
+                    "scale": [
+                        246.96089197462857,
+                        1.5109345971355703,
+                        1.9653328456221617
+                    ],
+                    "mean": [
+                        90.44633244120554,
+                        0.02466065959271745,
+                        -0.03784469984305466
+                    ],
+                    "var": [
+                        60989.68216490417,
+                        2.2829233568212284,
+                        3.862533194081304
+                    ],
+                    "n_samples_seen": 186072,
+                    "n_features_in": 3,
+                    "columns": [
+                        "Amount",
+                        "V3",
+                        "V1"
+                    ],
+                    "scale_method": "scale_normal"
+                }
+            ],
+            "ml_task": "binary_classification",
+            "params": {
+                "columns_preprocessing": {
+                    "Amount": [
+                        "scale_normal"
+                    ],
+                    "V3": [
+                        "scale_normal"
+                    ],
+                    "V1": [
+                        "scale_normal"
+                    ]
+                },
+                "target_preprocessing": [
+                    "na_exclude"
+                ],
+                "ml_task": "binary_classification"
+            }
+        },
+        {
+            "scale": [
+                {
+                    "scale": [
+                        250.07106445939615,
+                        1.503744646464351,
+                        1.9542684752062778
+                    ],
+                    "mean": [
+                        90.03456054645514,
+                        0.021910683024856246,
+                        -0.03587369077490649
+                    ],
+                    "var": [
+                        62535.53727985546,
+                        2.2612479617701955,
+                        3.8191652731850696
+                    ],
+                    "n_samples_seen": 186072,
+                    "n_features_in": 3,
+                    "columns": [
+                        "Amount",
+                        "V3",
+                        "V1"
+                    ],
+                    "scale_method": "scale_normal"
+                }
+            ],
+            "ml_task": "binary_classification",
+            "params": {
+                "columns_preprocessing": {
+                    "Amount": [
+                        "scale_normal"
+                    ],
+                    "V3": [
+                        "scale_normal"
+                    ],
+                    "V1": [
+                        "scale_normal"
+                    ]
+                },
+                "target_preprocessing": [
+                    "na_exclude"
+                ],
+                "ml_task": "binary_classification"
+            }
+        },
+        {
+            "scale": [
+                {
+                    "scale": [
+                        250.94506602318685,
+                        1.5114982602150213,
+                        1.9628959262569277
+                    ],
+                    "mean": [
+                        90.10563233586997,
+                        0.023282769665105375,
+                        -0.03594546718132676
+                    ],
+                    "var": [
+                        62973.42616138161,
+                        2.2846269906330363,
+                        3.852960417316042
+                    ],
+                    "n_samples_seen": 186072,
+                    "n_features_in": 3,
+                    "columns": [
+                        "Amount",
+                        "V3",
+                        "V1"
+                    ],
+                    "scale_method": "scale_normal"
+                }
+            ],
+            "ml_task": "binary_classification",
+            "params": {
+                "columns_preprocessing": {
+                    "Amount": [
+                        "scale_normal"
+                    ],
+                    "V3": [
+                        "scale_normal"
+                    ],
+                    "V1": [
+                        "scale_normal"
+                    ]
+                },
+                "target_preprocessing": [
+                    "na_exclude"
+                ],
+                "ml_task": "binary_classification"
+            }
+        },
+        {
+            "scale": [
+                {
+                    "scale": [
+                        252.1832722447351,
+                        1.5175589394003342,
+                        1.9642529827317805
+                    ],
+                    "mean": [
+                        90.74492551270474,
+                        0.023863206837764644,
+                        -0.03674230650473384
+                    ],
+                    "var": [
+                        63596.40280006218,
+                        2.302985134553867,
+                        3.8582897801706966
+                    ],
+                    "n_samples_seen": 186072,
+                    "n_features_in": 3,
+                    "columns": [
+                        "Amount",
+                        "V3",
+                        "V1"
+                    ],
+                    "scale_method": "scale_normal"
+                }
+            ],
+            "ml_task": "binary_classification",
+            "params": {
+                "columns_preprocessing": {
+                    "Amount": [
+                        "scale_normal"
+                    ],
+                    "V3": [
+                        "scale_normal"
+                    ],
+                    "V1": [
+                        "scale_normal"
+                    ]
+                },
+                "target_preprocessing": [
+                    "na_exclude"
+                ],
+                "ml_task": "binary_classification"
+            }
+        },
+        {
+            "scale": [
+                {
+                    "scale": [
+                        255.1352760001742,
+                        1.5081032904334963,
+                        1.9614367026346295
+                    ],
+                    "mean": [
+                        90.9430467775915,
+                        0.023146541389005355,
+                        -0.035560766842507634
+                    ],
+                    "var": [
+                        65094.00905968507,
+                        2.2743755346163383,
+                        3.847233938442208
+                    ],
+                    "n_samples_seen": 186072,
+                    "n_features_in": 3,
+                    "columns": [
+                        "Amount",
+                        "V3",
+                        "V1"
+                    ],
+                    "scale_method": "scale_normal"
+                }
+            ],
+            "ml_task": "binary_classification",
+            "params": {
+                "columns_preprocessing": {
+                    "Amount": [
+                        "scale_normal"
+                    ],
+                    "V3": [
+                        "scale_normal"
+                    ],
+                    "V1": [
+                        "scale_normal"
+                    ]
+                },
+                "target_preprocessing": [
+                    "na_exclude"
+                ],
+                "ml_task": "binary_classification"
+            }
+        },
+        {
+            "scale": [
+                {
+                    "scale": [
+                        247.62204177815119,
+                        1.5134741982743662,
+                        1.963392572699889
+                    ],
+                    "mean": [
+                        90.33974730211959,
+                        0.023110690753310723,
+                        -0.03596932318846201
+                    ],
+                    "var": [
+                        61316.675574380446,
+                        2.290604148842236,
+                        3.8549103945330896
+                    ],
+                    "n_samples_seen": 186072,
+                    "n_features_in": 3,
+                    "columns": [
+                        "Amount",
+                        "V3",
+                        "V1"
+                    ],
+                    "scale_method": "scale_normal"
+                }
+            ],
+            "ml_task": "binary_classification",
+            "params": {
+                "columns_preprocessing": {
+                    "Amount": [
+                        "scale_normal"
+                    ],
+                    "V3": [
+                        "scale_normal"
+                    ],
+                    "V1": [
+                        "scale_normal"
+                    ]
+                },
+                "target_preprocessing": [
+                    "na_exclude"
+                ],
+                "ml_task": "binary_classification"
+            }
+        },
+        {
+            "scale": [
+                {
+                    "scale": [
+                        252.29749390097984,
+                        1.5106166638670766,
+                        1.9607508143563
+                    ],
+                    "mean": [
+                        90.33703997893302,
+                        0.025870144018956112,
+                        -0.034889371458460085
+                    ],
+                    "var": [
+                        63654.02542871496,
+                        2.281962705152896,
+                        3.8445437559988935
+                    ],
+                    "n_samples_seen": 186073,
+                    "n_features_in": 3,
+                    "columns": [
+                        "Amount",
+                        "V3",
+                        "V1"
+                    ],
+                    "scale_method": "scale_normal"
+                }
+            ],
+            "ml_task": "binary_classification",
+            "params": {
+                "columns_preprocessing": {
+                    "Amount": [
+                        "scale_normal"
+                    ],
+                    "V3": [
+                        "scale_normal"
+                    ],
+                    "V1": [
+                        "scale_normal"
+                    ]
+                },
+                "target_preprocessing": [
+                    "na_exclude"
+                ],
+                "ml_task": "binary_classification"
+            }
+        },
+        {
+            "scale": [
+                {
+                    "scale": [
+                        250.36234158141127,
+                        1.50983553138292,
+                        1.9594668711640095
+                    ],
+                    "mean": [
+                        90.24399654974123,
+                        0.02459520898631683,
+                        -0.03654800791196947
+                    ],
+                    "var": [
+                        62681.30208212726,
+                        2.2796033318263444,
+                        3.8395104191892733
+                    ],
+                    "n_samples_seen": 186073,
+                    "n_features_in": 3,
+                    "columns": [
+                        "Amount",
+                        "V3",
+                        "V1"
+                    ],
+                    "scale_method": "scale_normal"
+                }
+            ],
+            "ml_task": "binary_classification",
+            "params": {
+                "columns_preprocessing": {
+                    "Amount": [
+                        "scale_normal"
+                    ],
+                    "V3": [
+                        "scale_normal"
+                    ],
+                    "V1": [
+                        "scale_normal"
+                    ]
+                },
+                "target_preprocessing": [
+                    "na_exclude"
+                ],
+                "ml_task": "binary_classification"
+            }
+        },
+        {
+            "scale": [
+                {
+                    "scale": [
+                        253.02425795625803,
+                        1.5101291314342715,
+                        1.9524358692716894
+                    ],
+                    "mean": [
+                        90.49036034244622,
+                        0.023652904443865135,
+                        -0.03352150949203275
+                    ],
+                    "var": [
+                        64021.275114315,
+                        2.280489993606427,
+                        3.8120058236186973
+                    ],
+                    "n_samples_seen": 186073,
+                    "n_features_in": 3,
+                    "columns": [
+                        "Amount",
+                        "V3",
+                        "V1"
+                    ],
+                    "scale_method": "scale_normal"
+                }
+            ],
+            "ml_task": "binary_classification",
+            "params": {
+                "columns_preprocessing": {
+                    "Amount": [
+                        "scale_normal"
+                    ],
+                    "V3": [
+                        "scale_normal"
+                    ],
+                    "V1": [
+                        "scale_normal"
+                    ]
+                },
+                "target_preprocessing": [
+                    "na_exclude"
+                ],
+                "ml_task": "binary_classification"
+            }
+        }
+    ],
+    "learners": [
+        {
+            "library_version": "0.24.1",
+            "algorithm_name": "Neural Network",
+            "algorithm_short_name": "Neural Network",
+            "uid": "2665cafa-ddc2-4303-b41e-867925bb1bd0",
+            "params": {
+                "model_type": "Neural Network",
+                "ml_task": "binary_classification",
+                "n_jobs": -1,
+                "dense_1_size": 32,
+                "dense_2_size": 16,
+                "learning_rate": 0.05,
+                "seed": 1,
+                "explain_level": 1
+            },
+            "name": "learner_fold_0"
+        },
+        {
+            "library_version": "0.24.1",
+            "algorithm_name": "Neural Network",
+            "algorithm_short_name": "Neural Network",
+            "uid": "5feb1ee0-5af9-4e7c-a03a-8e8d617e68de",
+            "params": {
+                "model_type": "Neural Network",
+                "ml_task": "binary_classification",
+                "n_jobs": -1,
+                "dense_1_size": 32,
+                "dense_2_size": 16,
+                "learning_rate": 0.05,
+                "seed": 1,
+                "explain_level": 1
+            },
+            "name": "learner_fold_1"
+        },
+        {
+            "library_version": "0.24.1",
+            "algorithm_name": "Neural Network",
+            "algorithm_short_name": "Neural Network",
+            "uid": "97cbe74b-31fc-4ea0-97be-35fcc8554285",
+            "params": {
+                "model_type": "Neural Network",
+                "ml_task": "binary_classification",
+                "n_jobs": -1,
+                "dense_1_size": 32,
+                "dense_2_size": 16,
+                "learning_rate": 0.05,
+                "seed": 1,
+                "explain_level": 1
+            },
+            "name": "learner_fold_2"
+        },
+        {
+            "library_version": "0.24.1",
+            "algorithm_name": "Neural Network",
+            "algorithm_short_name": "Neural Network",
+            "uid": "c433adf3-8ddd-4120-92f4-d791a5700f9f",
+            "params": {
+                "model_type": "Neural Network",
+                "ml_task": "binary_classification",
+                "n_jobs": -1,
+                "dense_1_size": 32,
+                "dense_2_size": 16,
+                "learning_rate": 0.05,
+                "seed": 1,
+                "explain_level": 1
+            },
+            "name": "learner_fold_3"
+        },
+        {
+            "library_version": "0.24.1",
+            "algorithm_name": "Neural Network",
+            "algorithm_short_name": "Neural Network",
+            "uid": "2c014abf-bbff-40e5-a815-1b1a9dea2af3",
+            "params": {
+                "model_type": "Neural Network",
+                "ml_task": "binary_classification",
+                "n_jobs": -1,
+                "dense_1_size": 32,
+                "dense_2_size": 16,
+                "learning_rate": 0.05,
+                "seed": 1,
+                "explain_level": 1
+            },
+            "name": "learner_fold_4"
+        },
+        {
+            "library_version": "0.24.1",
+            "algorithm_name": "Neural Network",
+            "algorithm_short_name": "Neural Network",
+            "uid": "54d95e3a-4071-4a5a-aed8-b8b7d8e9e849",
+            "params": {
+                "model_type": "Neural Network",
+                "ml_task": "binary_classification",
+                "n_jobs": -1,
+                "dense_1_size": 32,
+                "dense_2_size": 16,
+                "learning_rate": 0.05,
+                "seed": 1,
+                "explain_level": 1
+            },
+            "name": "learner_fold_5"
+        },
+        {
+            "library_version": "0.24.1",
+            "algorithm_name": "Neural Network",
+            "algorithm_short_name": "Neural Network",
+            "uid": "eac3734b-faf8-4770-8c6c-ece9838f176b",
+            "params": {
+                "model_type": "Neural Network",
+                "ml_task": "binary_classification",
+                "n_jobs": -1,
+                "dense_1_size": 32,
+                "dense_2_size": 16,
+                "learning_rate": 0.05,
+                "seed": 1,
+                "explain_level": 1
+            },
+            "name": "learner_fold_6"
+        },
+        {
+            "library_version": "0.24.1",
+            "algorithm_name": "Neural Network",
+            "algorithm_short_name": "Neural Network",
+            "uid": "9ecbaf84-17d7-4978-a827-5c81afcee956",
+            "params": {
+                "model_type": "Neural Network",
+                "ml_task": "binary_classification",
+                "n_jobs": -1,
+                "dense_1_size": 32,
+                "dense_2_size": 16,
+                "learning_rate": 0.05,
+                "seed": 1,
+                "explain_level": 1
+            },
+            "name": "learner_fold_7"
+        },
+        {
+            "library_version": "0.24.1",
+            "algorithm_name": "Neural Network",
+            "algorithm_short_name": "Neural Network",
+            "uid": "f9c58ac5-7f5b-4625-86b8-f89824e7d0aa",
+            "params": {
+                "model_type": "Neural Network",
+                "ml_task": "binary_classification",
+                "n_jobs": -1,
+                "dense_1_size": 32,
+                "dense_2_size": 16,
+                "learning_rate": 0.05,
+                "seed": 1,
+                "explain_level": 1
+            },
+            "name": "learner_fold_8"
+        },
+        {
+            "library_version": "0.24.1",
+            "algorithm_name": "Neural Network",
+            "algorithm_short_name": "Neural Network",
+            "uid": "b57bc372-9c57-4f70-8fc4-0dd63f795d7d",
+            "params": {
+                "model_type": "Neural Network",
+                "ml_task": "binary_classification",
+                "n_jobs": -1,
+                "dense_1_size": 32,
+                "dense_2_size": 16,
+                "learning_rate": 0.05,
+                "seed": 1,
+                "explain_level": 1
+            },
+            "name": "learner_fold_9"
+        }
+    ],
+    "params": {
+        "additional": {
+            "max_rows_limit": null,
+            "max_cols_limit": null
+        },
+        "preprocessing": {
+            "columns_preprocessing": {
+                "Amount": [
+                    "scale_normal"
+                ],
+                "V3": [
+                    "scale_normal"
+                ],
+                "V1": [
+                    "scale_normal"
+                ]
+            },
+            "target_preprocessing": [
+                "na_exclude"
+            ],
+            "ml_task": "binary_classification"
+        },
+        "validation_strategy": {
+            "validation_type": "kfold",
+            "k_folds": 10,
+            "shuffle": true,
+            "random_seed": 1997,
+            "X_path": "AC2_Neural Network/X.parquet",
+            "y_path": "AC2_Neural Network/y.parquet",
+            "results_path": "AC2_Neural Network"
+        },
+        "learner": {
+            "model_type": "Neural Network",
+            "ml_task": "binary_classification",
+            "n_jobs": -1,
+            "dense_1_size": 32,
+            "dense_2_size": 16,
+            "learning_rate": 0.05,
+            "seed": 1,
+            "explain_level": 1
+        },
+        "automl_random_state": 1234,
+        "ml_task": "binary_classification",
+        "explain_level": 1,
+        "name": "1_Default_NeuralNetwork",
+        "status": "initialized",
+        "final_loss": null,
+        "train_time": null,
+        "data_type": "original",
+        "max_time_for_learner": 60
+    },
+    "saved": [
+        "1_Default_NeuralNetwork/learner_fold_0.neural_network",
+        "1_Default_NeuralNetwork/learner_fold_1.neural_network",
+        "1_Default_NeuralNetwork/learner_fold_2.neural_network",
+        "1_Default_NeuralNetwork/learner_fold_3.neural_network",
+        "1_Default_NeuralNetwork/learner_fold_4.neural_network",
+        "1_Default_NeuralNetwork/learner_fold_5.neural_network",
+        "1_Default_NeuralNetwork/learner_fold_6.neural_network",
+        "1_Default_NeuralNetwork/learner_fold_7.neural_network",
+        "1_Default_NeuralNetwork/learner_fold_8.neural_network",
+        "1_Default_NeuralNetwork/learner_fold_9.neural_network"
+    ],
+    "predictions_fname": "1_Default_NeuralNetwork/predictions_out_of_folds.csv",
+    "metric_name": "f1",
+    "final_loss": -0.8226527570789867,
+    "train_time": 350.51544737815857,
+    "is_stacked": false,
+    "threshold": 0.45245585188221754
+}
